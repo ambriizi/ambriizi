@@ -34,7 +34,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ### 📫 Vamos nos conectar?
 Se você gostou do meu perfil ou quer trocar uma ideia sobre tecnologia, fique à vontade para me mandar uma mensagem!
 
-<div align="flex-start">
+<div align="">
   <a href="https://linkedin.com" target="_blank">
     <img width="30px" height="30px" alt="LinkedIn" src="https://github.com/user-attachments/assets/ece09204-f634-49e6-b6f9-d763a5857bd4" />
   </a>
