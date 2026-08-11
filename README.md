@@ -38,7 +38,4 @@ Se vocÃª gostou do meu perfil ou quer trocar uma ideia sobre tecnologia, fique Ã
   <a href="https://www.linkedin.com/in/carlos-ambrizi-30ba13220/" target="_blank">
     <img width="30px" height="30px" alt="LinkedIn" src="https://github.com/user-attachments/assets/ece09204-f634-49e6-b6f9-d763a5857bd4" />
   </a>
-  <a href="mailto:ambrizitech@icloud.com">
-    <img width="30px" height="30px" alt="Email" src="https://github.com/user-attachments/assets/49857a35-e7b2-4392-a31c-355930bad4d4" />
-  </a>
 </div>
