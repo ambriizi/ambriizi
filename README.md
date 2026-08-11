@@ -17,8 +17,8 @@ Seja bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor em início de carre
 Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiçoando diariamente:
 
 <div align="left">
-  <img width="10px" height="10px" alt="HTML5" src="https://github.com/user-attachments/assets/507f9400-dd80-4b5b-a363-8e7c79bfc2db" />
-  <img width="10px" height="10px" alt="CSS3" src="https://github.com/user-attachments/assets/e63ff0cc-393a-40cb-a2c3-9c31e589f3ca" />
+  <img width="40px" height="40px" alt="HTML5" src="https://github.com/user-attachments/assets/507f9400-dd80-4b5b-a363-8e7c79bfc2db" />
+  <img width="40px" height="40px" alt="CSS3" src="https://github.com/user-attachments/assets/e63ff0cc-393a-40cb-a2c3-9c31e589f3ca" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
