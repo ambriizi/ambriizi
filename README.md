@@ -28,7 +28,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 
 ### 📂 Projetos em Destaque
 - 📁 **[Portfólio Pessoal](https://github.com/ambriizi/portfolio):** Minha página pessoal para expor minhas criações e designs.
-- 📁**[Agendamento Manicure](https://github.com/ambriizi/agendamento-caroline):** Um sistema de agendamento 24h para uma manicure conhecida.
+- 📁 **[Agendamento Manicure](https://github.com/ambriizi/agendamento-caroline):** Um sistema de agendamento 24h para uma manicure conhecida.
 
 ---
 
