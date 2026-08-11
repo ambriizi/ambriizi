@@ -34,12 +34,11 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ### 📫 Vamos nos conectar?
 Se você gostou do meu perfil ou quer trocar uma ideia sobre tecnologia, fique à vontade para me mandar uma mensagem!
 
-<div align="left">
+<div align="flex-start">
   <a href="https://linkedin.com" target="_blank">
     <img width="30px" height="30px" alt="LinkedIn" src="https://github.com/user-attachments/assets/ece09204-f634-49e6-b6f9-d763a5857bd4" />
   </a>
   <a href="mailto:ambrizitech@icloud.com">
     <img width="30px" height="30px" alt="Email" src="https://github.com/user-attachments/assets/49857a35-e7b2-4392-a31c-355930bad4d4" />
-
   </a>
 </div>
