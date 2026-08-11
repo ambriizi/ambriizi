@@ -22,7 +22,6 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
   <img width="40px" height="40px" alt="JAVASCRIPT" src="https://github.com/user-attachments/assets/8d7611ec-4e6c-4c46-a1af-71a87f8d9cdc" />
   <img width="40px" height="40px" alt="GIT" src="https://github.com/user-attachments/assets/06af2c68-9404-4c49-a06c-5bbfff2babab" />
   <img width="40px" height="40px" alt="GITHUB" src="https://github.com/user-attachments/assets/a64c86b3-071a-4531-a940-ef81fe6e9a5e" />
->
 </div>
 
 ---
@@ -37,9 +36,11 @@ Se você gostou do meu perfil ou quer trocar uma ideia sobre tecnologia, fique �
 
 <div align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img width="30px" height="30px" alt="LinkedIn" src="https://github.com/user-attachments/assets/1fca0b85-5399-4602-b8ee-39dcdde16550" />
+
   </a>
   <a href="mailto:ambrizitech@icloud.com">
-    <img src="https://shields.io" alt="Email" />
+    <img width="30px" height="30px" alt="Email" src="https://github.com/user-attachments/assets/49857a35-e7b2-4392-a31c-355930bad4d4" />
+
   </a>
 </div>
