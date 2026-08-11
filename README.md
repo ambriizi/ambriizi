@@ -27,7 +27,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ---
 
 ### 📂 Projetos em Destaque
-- 📁 **[Portfólio Pessoal](./portfolio):** Minha página pessoal para expor minhas criações e designs.
+- 📁 **[Portfólio Pessoal](https://github.com/ambriizi/portfolio):** Minha página pessoal para expor minhas criações e designs.
 
 ---
 
