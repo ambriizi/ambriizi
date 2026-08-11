@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos Ambrizi! 👋
+# Olá, me chamo Carlos Ambrizi! 👋
 
 Seja bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor em início de carreira, focado em criar interfaces web modernas, limpas e responsivas. Atualmente, estou dedicando meu tempo ao aprendizado prático de tecnologias Front-end.
 
