@@ -33,6 +33,5 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 
 ### 📫 Vamos nos conectar?
 Se você gostou do meu perfil ou quer trocar uma ideia sobre tecnologia, fique à vontade para me mandar uma mensagem!
-
 - **LinkedIn:** [Carlos Ambrizi](https://www.linkedin.com/in/carlos-ambrizi-30ba13220/)
 - **E-mail:** ambrizitech@icloud.com
