@@ -2,17 +2,28 @@
 
 Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in Systems Analysis and Development (ADS). I am dedicated to mastering software architecture using React, TypeScript, and Tailwind CSS to build clean, modern, and high-performance user interfaces.
 
+---
+
 ### 🚀 About Me
 - 👨‍💻 Consolidating modern web fundamentals through practical, real-world projects.
 - 🎓 Graduated in Systems Analysis and Development.
 - 💡 Passionate about creating accessible, well-structured solutions centered on user experience (UX).
 - 🇪🇺 EU Citizen ready for international remote or hybrid opportunities.
 
+---
+
 ### 🛠️ Tech Stack
 **Languages & Core:** HTML5, CSS3, JavaScript (ES6+), Git, GitHub.
 **Currently Learning:** React, TypeScript, Tailwind CSS.
 
+---
 
+### 🇺🇸 English
+If you like my profile, want to discuss technology, or have a project/freelance opportunity, feel free to reach out!
+* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
+* **E-mail:** Send a message to [ambrizitech@icloud.com](mailto:ambrizitech@icloud.com)
+
+---
 
 # Olá, me chamo Carlos Ambrizi! 👋
 Bem-vindo ao meu perfil do GitHub! Sou Desenvolvedor Front-End Júnior, formado em Análise e Desenvolvimento de Sistemas (ADS). Atualmente, estou focado em dominar arquitetura de software utilizando React, TypeScript e Tailwind CSS para criar interfaces modernas, limpas e de alta performance.
