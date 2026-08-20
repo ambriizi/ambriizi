@@ -54,7 +54,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ### 📂 Projetos em Destaque
 - 📁 **[Site Pessoal (Ver Online)](https://landing-page-dev-front-end.vercel.app/):** Meu próprio site, para que os clientes possam ver alguns dos meu trabalhos.
 - 📁 **[Agendamento Manicure (Ver Online)](https://landing-page-caroline-beryl.vercel.app/):** Uma landing page para um comercio local, que aumentou em 60% o n° de agendamentos.
-- 📁 **[Portfólio Pessoal](https://github.com/ambriizi/portfolio):** Minha página pessoal para expor minhas criações e designs.
+- 📁 **[Portfólio Pessoal (Ver Online)](https://portfolio-theta-olive-98.vercel.app/):** Minha página pessoal para expor minhas criações e designs.
 
 ---
 
