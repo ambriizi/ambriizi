@@ -26,7 +26,7 @@ If you like my profile, want to discuss technology, or have a project/freelance 
 ---
 
 # Olá, me chamo Carlos Ambrizi! 👋
-Bem-vindo ao meu perfil do GitHub! Sou Desenvolvedor Front-End Júnior, formado em Análise e Desenvolvimento de Sistemas (ADS). Atualmente, estou focado em dominar arquitetura de software utilizando React, TypeScript e Tailwind CSS para criar interfaces modernas, limpas e de alta performance.
+Bem-vindo ao meu perfil do GitHub! Sou Desenvolvedor Front-End Júnior, formado em Análise e Desenvolvimento de Sistemas (ADS). Atualmente aperfeiçoando meus conhecimentos em JavaScript Vanilla e Arquitetura Web, com planos de iniciar em React e TypeScript em breve.
 
 ---
 
