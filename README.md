@@ -53,7 +53,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 
 ### 📂 Projetos em Destaque
 - 📁 **[Site Pessoal](https://github.com/ambriizi/landing-page-dev-front-end):** Meu próprio site, para que os clientes possam ver alguns dos meu trabalhos.
-- 📁 **[Agendamento Manicure](https://github.com/ambriizi/agendamento-caroline):** Uma landing page para um comercio local, que aumentou em 60% o n° de agendamentos.
+- 📁 **[Agendamento Manicure](https://github.com/ambriizi/landing-page-caroline):** Uma landing page para um comercio local, que aumentou em 60% o n° de agendamentos.
 - 📁 **[Portfólio Pessoal](https://github.com/ambriizi/portfolio):** Minha página pessoal para expor minhas criações e designs.
 
 ---
