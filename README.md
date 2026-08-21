@@ -1,6 +1,6 @@
 ## 🇺🇸 English Version
 
-Welcome to my GitHub profile! I am currently deepening my knowledge in Vanilla JavaScript and Web Architecture. My focus is on building a solid foundation before moving on to React and TypeScript soon. Feel free to explore my repositories!
+Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in Systems Analysis and Development. I am currently honing my skills in Vanilla JavaScript and Web Architecture, with plans to start learning React and TypeScript soon.
 
 ---
 
