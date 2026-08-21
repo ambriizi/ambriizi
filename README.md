@@ -1,6 +1,6 @@
 ## 🇺🇸 English Version
 
-Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in Systems Analysis and Development (ADS). I am dedicated to mastering software architecture using React, TypeScript, and Tailwind CSS to build clean, modern, and high-performance user interfaces.
+Junior Front-End Developer | Systems Analysis & Development GraduateWelcome to my GitHub profile! I am currently deepening my knowledge in Vanilla JavaScript and Web Architecture. My focus is on building a solid foundation before moving on to React and TypeScript soon. Feel free to explore my repositories!
 
 ---
 
