@@ -1,6 +1,6 @@
 ## 🇺🇸 English Version
 
-Junior Front-End Developer | Systems Analysis & Development GraduateWelcome to my GitHub profile! I am currently deepening my knowledge in Vanilla JavaScript and Web Architecture. My focus is on building a solid foundation before moving on to React and TypeScript soon. Feel free to explore my repositories!
+Welcome to my GitHub profile! I am currently deepening my knowledge in Vanilla JavaScript and Web Architecture. My focus is on building a solid foundation before moving on to React and TypeScript soon. Feel free to explore my repositories!
 
 ---
 
