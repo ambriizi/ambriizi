@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in
 
 ### 📬 Let's Connect!
 If you like my profile, want to discuss technology, or have a project/freelance opportunity, feel free to reach out!
-* **LinkedIn:** [Carlos Ambrizi](https://www.linkedin.com/in/carlos-ambrizi-30ba13220/)
+* **LinkedIn:** [Carlos Ambrizi](https://www.linkedin.com/in/ambriizi)
 * **E-mail:** [ambrizitech@icloud.com](mailto:ambrizitech@icloud.com)
 
 ---
