@@ -13,8 +13,14 @@ Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in
 ---
 
 ### 🛠️ Tech Stack
-**Languages & Core:** HTML5, CSS3, JavaScript (ES6+), Git, GitHub.
-**Currently Learning:** React, TypeScript, Tailwind CSS.
+
+<div align="left">
+  <img width="40px" height="40px" alt="HTML5" src="https://github.com/user-attachments/assets/507f9400-dd80-4b5b-a363-8e7c79bfc2db" />
+  <img width="40px" height="40px" alt="CSS3" src="https://github.com/user-attachments/assets/e63ff0cc-393a-40cb-a2c3-9c31e589f3ca" />
+  <img width="40px" height="40px" alt="JAVASCRIPT" src="https://github.com/user-attachments/assets/8d7611ec-4e6c-4c46-a1af-71a87f8d9cdc" />
+  <img width="40px" height="40px" alt="GITHUB" src="https://github.com/user-attachments/assets/a64c86b3-071a-4531-a940-ef81fe6e9a5e" />
+  <img width="40px" height="40px" alt="GIT" src="https://github.com/user-attachments/assets/06af2c68-9404-4c49-a06c-5bbfff2babab" />
+</div>
 
 ---
 
