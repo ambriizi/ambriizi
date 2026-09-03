@@ -53,7 +53,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 
 ### 📂 Projetos em Destaque
 - 📁 **[Site Pessoal (Ver Online)](https://landing-page-dev-front-end.vercel.app/):** Meu próprio site, para que os clientes possam ver alguns dos meu trabalhos.
-- 📁 **[Agendamento Manicure (Ver Online)](https://github.com/ambriizi/page-manicure):** Um site para um comercio local, que aumentou em 60% o n° de agendamentos.
+- 📁 **[Agendamento Manicure (Ver Online)](https://page-manicure.vercel.app/):** Um site para um comercio local, que aumentou em 60% o n° de agendamentos.
 
 ---
 
