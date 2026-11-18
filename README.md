@@ -58,7 +58,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ---
 
 ### 📂 Projetos em Destaque
-- 📁 **Nail Designer Studio — Caroline Ambrizi** [Landing page comercial com SEO local e integração com WhatsApp](https://www.carolambrizinails.com.br/).
+- 📁 **Nail Designer Studio —** [Caroline Ambrizi Landing page comercial com SEO local e integração com WhatsApp](https://www.carolambrizinails.com.br/).
 ---
 
 ### 📫 Vamos nos conectar?
