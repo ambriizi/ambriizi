@@ -24,6 +24,11 @@ Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in
 
 ---
 
+### 📂 Featured Projects
+📁 **Nail Designer Studio —** [Caroline Ambrizi: Commercial landing page with local SEO and WhatsApp integration](https://www.carolambrizinails.com.br/).
+
+---
+
 ### 📬 Let's Connect!
 If you like my profile, want to discuss technology, or have a project/freelance opportunity, feel free to reach out!
 * **LinkedIn:** [Carlos Ambrizi](https://www.linkedin.com/in/ambriizi)
@@ -58,7 +63,8 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ---
 
 ### 📂 Projetos em Destaque
-- 📁 **Nail Designer Studio —** [Caroline Ambrizi Landing page comercial com SEO local e integração com WhatsApp](https://www.carolambrizinails.com.br/).
+📁 **Nail Designer Studio —** [Caroline Ambrizi Landing page comercial com SEO local e integração com WhatsApp](https://www.carolambrizinails.com.br/).
+
 ---
 
 ### 📫 Vamos nos conectar?
