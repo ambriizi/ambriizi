@@ -1,6 +1,6 @@
 ## 🇺🇸 English Version
 
-Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in Systems Analysis and Development. I am currently honing my skills in Vanilla JavaScript and Web Architecture, with plans to start learning React and TypeScript soon.
+Welcome to my GitHub profile! I am a Junior Front-End Developer with a degree in Systems Analysis and Development. I am currently honing my skills in Vanilla JavaScript and Web Architecture.
 
 ---
 
@@ -32,7 +32,7 @@ If you like my profile, want to discuss technology, or have a project/freelance 
 ---
 
 # Olá, me chamo Carlos Ambrizi! 👋
-Bem-vindo ao meu perfil do GitHub! Sou Desenvolvedor Front-End Júnior, formado em Análise e Desenvolvimento de Sistemas (ADS). Atualmente aperfeiçoando meus conhecimentos em JavaScript Vanilla e Arquitetura Web, com planos de iniciar em React e TypeScript em breve.
+Bem-vindo ao meu perfil do GitHub! Sou Desenvolvedor Front-End Júnior, formado em Análise e Desenvolvimento de Sistemas (ADS). Atualmente aperfeiçoando meus conhecimentos em JavaScript Vanilla e Arquitetura Web.
 
 ---
 
@@ -58,9 +58,8 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ---
 
 ### 📂 Projetos em Destaque
-- 📁 **[Site Pessoal (Ver Online)](https://page-devjr.vercel.app/):** Meu próprio site, para que os clientes possam ver alguns dos meu trabalhos.
-- 📁 **[Agendamento Manicure (Ver Online)](https://page-manicure.vercel.app/):** Um site para uma manicure local, que aumentou seus agendamentos.
-- 📁 **[Agendamento Barbearia (Ver Online)](https://page-barbearia-sigma.vercel.app/):** Um site modelo para barbearias.
+- 📁 **[Agendamento Manicure (Ver Online)](https://www.carolambrizinails.com.br/):** Um site para uma manicure local, que aumentou seus agendamentos.
+
 
 ---
 
