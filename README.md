@@ -58,9 +58,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 ---
 
 ### 📂 Projetos em Destaque
-- 📁 **[Agendamento Manicure (Ver Online)](https://www.carolambrizinails.com.br/):** Um site para uma manicure local, que aumentou seus agendamentos.
-
-
+- 📁 **Nail Designer Studio — Caroline Ambrizi (Landing page comercial com SEO local e integração com WhatsApp) [https://www.carolambrizinails.com.br/].
 ---
 
 ### 📫 Vamos nos conectar?
